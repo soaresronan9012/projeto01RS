@@ -1,0 +1,60 @@
+body {
+    background-color:rgb(235, 221, 226);
+    text-align: center;
+    margin: 0px;
+    
+
+
+}
+
+header{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+
+.textos{
+
+    text-align: center;
+    margin-bottom: 110px;
+}
+.textos h1{
+    margin-bottom: 25px;
+}
+strong{
+    color: rgb(245, 124, 229);
+
+}
+
+p{
+    border-top: 25px;
+    border-bottom: 30px;
+    color: blueviolet;
+   
+}
+
+.rod{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+
+#footer{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 9px;
+}
+
+
+.line{
+    width: 580px;
+    height: 0px;
+    margin: 0 auto 2px;
+    border-bottom: 1px solid rgb(202, 140, 202);
+}
